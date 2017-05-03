@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-Portfolio Utilizing Bootstrap 
+# Responsive-Portfolio
+Mobile Responsive Portfolio Page
